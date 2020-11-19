@@ -1,4 +1,4 @@
-# DIY_spectrometer_python
+# DIY_spectroscoPython
 
 ## Espectroscopio
 
