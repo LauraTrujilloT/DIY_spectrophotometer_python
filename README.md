@@ -14,5 +14,27 @@ El espectroscopio utilizado en el experimento fue diseñado por docentes de la [
 	- Módulo de admisión de la luz: Tubo con rendija
 	- Módulo de difracción: Lente y red de difracción 500 líneas.$mm^(-1)$
 
+Los **materiales** necesarios son:
+	
+	- Tubo PVC 10 cm y $\phi$ 4cm
+	- Tubo PVC 12 cm y $\phi$ 2 cm
+	- 2 LEDs (puede ser uno rojo y otro azul)
+	- 2 resistencias de 220 $\Omega$
+	- 1 portapilas
+	- Cartulina negra
+	- 1 Lente (lupa) $\phi$ 2 cm
+	- 1 CD
 
+
+##### Módulo de calibración
+
+Consiste en 2 LEDs, 2 resistencias de 220 $\Omega$ y un portapilas. En un tubo PVC de unos 5cm, se generan 4 entradas para pasar los LEDs como se muestra en la figura.
+
+##### Módulo de admisión de la Luz
+
+Consiste en un tubo PVS de 10 cm, adentro del tubo se recubre con una cartulina negra y en sus extremos se coloca una tapa de cartulina negra con una rendija de 5mm.
+
+##### Módulo de difracción
+
+El lente (de una lupa, por ejemplo) se coloca adentro de un tubo PVC de 7 cm y diámetro . 
 
