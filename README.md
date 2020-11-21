@@ -28,7 +28,7 @@ Los **materiales** necesarios son:
 	- 2 resistencias de 220 $\Omega$
 	- 1 portapilas
 	- Cartulina negra
-	- 1 Lente (lupa) diámete ~5cm
+	- 1 Lente (lupa) diámetro ~5cm
 	- 1 CD
 
 
@@ -42,7 +42,7 @@ Módulo Calibración  |                           |                    |
 
 ##### Módulo de admisión de la Luz
 
-Consiste en un tubo PVS de 14 cm y diámetro 4 cm, adentro del tubo se recubre con una cartulina negra y en sus extremos se coloca una tapa de cartulina negra con una rendija de 1mm.
+Consiste en un tubo PVC de 14 cm y diámetro 4 cm, adentro del tubo se recubre con una cartulina negra y en uno de sus extremos se coloca una tapa de cartulina negra con una rendija de 1mm.
 
 Módulo admisión de la Luz    |                         |
 :-------------------------:|:-------------------------:|
@@ -51,7 +51,7 @@ Módulo admisión de la Luz    |                         |
 
 ##### Módulo de difracción
 
-El lente (de una lupa, por ejemplo) se coloca adentro de un tubo PVC de 6cm y diámetro 5cm. Después, en el tubo de PVC de diámetro 4 cm y largo 4 cm, se recorta un círculo de 4cm del CD y se pega en un extremo.
+El lente (de una lupa, por ejemplo) se coloca dentro de un tubo PVC de 6cm y diámetro 5cm. Después, en el tubo de PVC de diámetro 4 cm y largo 4 cm, se recorta un círculo de 4cm del CD y se pega en un extremo.
 
 
 Módulo admisión difracción: Lente    |                         |
@@ -60,4 +60,4 @@ Módulo admisión difracción: Lente    |                         |
 Red de Difracción	|			|
 <img src='images/red1.jpg' width="300"> | <img src='images/red2.jpg' width="300"> |
 
-
+Finalmente, se acoplan los módulos de la siguiente forma: módulo de difracción (tubo red difracción + tubo lente) + módulo de admisión de la luz + módulo de calibración. 
