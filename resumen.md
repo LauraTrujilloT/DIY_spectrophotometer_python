@@ -5,4 +5,4 @@ Mediante la construcción de un espectroscopio de bajo costo, podremos entender 
 
 Setup		|		|
 :--------------:|:-------------:|
-<img src="setup.jpg" width="300"> | <img src="setup2.jpg" width=300>| 
+<img src="/images/setup.jpg" width="300"> | <img src="/images/setup2.jpg" width=300>| 
